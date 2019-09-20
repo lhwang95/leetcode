@@ -1,7 +1,7 @@
 
 - algorithms
     - 2019-06-07
-        [001-Two Sum](https://leetcode.com/problems/two-sum/)
+        001-Two Sum(https://leetcode.com/problems/two-sum/)
         - [002-Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
     - 2019-06-08
         - [Remove Element](./algorithms/remove_element/index.md)
